@@ -1,0 +1,5 @@
+print("Leia um número como texto (input) e: Converta para inteiro; Mostre o triplo.")
+a = float(input("Digite : "))
+b = int(a)
+print("Número inteiro : ",b)
+print("O  triplo  do número b é ",(b**3))

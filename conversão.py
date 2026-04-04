@@ -1,0 +1,5 @@
+print("16. Leia um valor e: Mostre o tipo; Se for numérico (após conversão) → mostre o quadrado.")
+a =float("9")
+b =float("8")
+c =(a + b)
+print(c)
